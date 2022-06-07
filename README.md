@@ -2,7 +2,7 @@
 
 Projeto de um Portal de Notícias utilizando  Node.js . Desenvolvimento de back end do porta de notícias, criação de rotas das páginas e armazenamento de dados.
 
-<h1>  Tarefas <h1>
+<h2>  Tarefas <h2>
 
 1. Adicionar o print da  página principal do portal de noticias ().
 2. Importar o projeto do visual code studio para o repositório da GitHub () .
