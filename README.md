@@ -8,7 +8,7 @@ Projeto de um Portal de Notícias utilizando  Node.js . Desenvolvimento de back 
 2. Importar o projeto do visual code studio para o repositório da GitHub () .
   
   <h2> Guia de Instalação <h2> 
-    
+    <p>
      1. Node Js.
      2. Sublime Text ( editor de texto ).
      3. JavaScript.
@@ -18,4 +18,4 @@ Projeto de um Portal de Notícias utilizando  Node.js . Desenvolvimento de back 
      7. Nodemon.
      8. Banco de Dados.
     
-    
+    <p/>
