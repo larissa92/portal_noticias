@@ -7,7 +7,7 @@ Projeto de um Portal de Notícias utilizando  Node.js . Desenvolvimento de back 
 1. Adicionar o print da  página principal do portal de noticias ().
 2. Importar o projeto do visual code studio para o repositório da GitHub () .
   
-  <h2> Guia de Instalação de Programas usados <h2> 
+  <h2> Guia de Instalação <h2> 
     
      1. Node Js.
      2. Sublime Text ( editor de texto ).
